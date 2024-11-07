@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.github": true,
+    "**/.quartz-cache": true,
+    "**/docs": true,
+    "**/node_modules": true,
+    "**/quartz": true,
+    "**/.vscode": false,
+    "**.**": true,
+    "Dockerfile": true
+  },
+}
