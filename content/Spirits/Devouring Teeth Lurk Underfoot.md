@@ -1,7 +1,11 @@
 Nickname: Teeth
+
 Release: [[Spirits By Release#Horizons of Spirit Island|Horizons]]
+
 Elements: ![[animal.png]] ![[fire.png]], ![[earth.png]]
+
 ![[Teeth.jpg]]
+
 ## Guides
 - [[Teeth - Standard]]
 - [[Teeth - Reclaim Loop]]

@@ -1,6 +1,9 @@
 Nickname: Keeper
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[fire.png]]![[plant.png]], ![[sun.png]]
+
 ![[Keeper.jpg]]
 ## Guides
 

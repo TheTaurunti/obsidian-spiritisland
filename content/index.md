@@ -1,3 +1,6 @@
+```
+title: "Index"
+```
 ## Start Here
 Find spirit guides by various [[Categories]]
 

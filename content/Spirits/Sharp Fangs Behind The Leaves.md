@@ -1,6 +1,9 @@
 Nickname: Fangs
+
 Release: [[Spirits By Release#Branch & Claw|Branch & Claw]]
+
 Elements: ![[plant.png]]![[animal.png]], ![[moon.png]]![[fire.png]]
+
 ![[Fangs.jpg]]
 ## Guides
 - [[Fangs - Fast Tempo]]

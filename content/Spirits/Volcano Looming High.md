@@ -1,6 +1,9 @@
 Nickname: Volcano
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[fire.png]]![[earth.png]], ![[air.png]]
+
 ![[Volcano.jpg]]
 ## Guides
 - [[Volcano - Top Track Majors]]

@@ -1,6 +1,9 @@
 Nickname: Heat, Rising Heat
+
 Release: [[Spirits By Release#Horizons of Spirit Island|Horizons]]
+
 Elements: ![[fire.png]], ![[earth.png]]![[air.png]] (off-elements are ![[moon.png]]![[plant.png]]![[animal.png]])
+
 ![[Heat.jpg]]
 ## Guides
 - [[Heat - Standard G3]]

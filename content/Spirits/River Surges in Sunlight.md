@@ -1,6 +1,9 @@
 Nickname: River
+
 Release: [[Spirits By Release#Base Game|Base Game]]
+
 Elements: ![[water.png]]![[sun.png]], ![[earth.png]]
+
 ![[River.jpg]]
 ## Guides
 

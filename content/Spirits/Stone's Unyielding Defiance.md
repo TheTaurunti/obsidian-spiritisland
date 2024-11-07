@@ -1,6 +1,9 @@
 Nickname: Stone
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[earth.png]]![[earth.png]], ![[sun.png]], ![[plant.png]]
+
 ![[Stone.jpg]]
 
 ## Guides

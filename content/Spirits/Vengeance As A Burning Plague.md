@@ -1,6 +1,9 @@
 Nickname: Vengeance
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[fire.png]]![[animal.png]], ![[water.png]], ![[air.png]]
+
 ![[Vengeance.jpg]]
 ## Guides
 G3 top > fetid

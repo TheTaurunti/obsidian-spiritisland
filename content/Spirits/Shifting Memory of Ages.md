@@ -1,6 +1,9 @@
 Nickname: Memory
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[moon.png]]![[earth.png]], ![[air.png]] 
+
 ![[Memory.jpg]]
 ## Guides
 Turn 1 is always G2, with your resulting strategy based on how the draft went.

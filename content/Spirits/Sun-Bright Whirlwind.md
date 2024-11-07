@@ -1,6 +1,9 @@
 Nickname: Whirlwind, Sun-Bright
+
 Release: [[Spirits By Release#Horizons of Spirit Island|Horizons]]
-Elements: ![[air.png]]![[air.png]]![[sun.png]] 
+
+Elements: ![[air.png]]![[air.png]]![[sun.png]]
+
 ![[Whirlwind.jpg]]
 ## Guides
 

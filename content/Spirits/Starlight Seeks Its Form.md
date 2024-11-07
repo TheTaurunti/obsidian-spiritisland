@@ -1,6 +1,9 @@
 Nickname: Starlight
+
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: Literally anything (Consider aiming for ![[water.png]]![[earth.png]]![[plant.png]])
+
 ![[Starlight.jpg]]
 ## Guides
 - [[Starlight - Consistent Minors]]

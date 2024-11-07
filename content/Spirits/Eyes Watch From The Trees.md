@@ -1,6 +1,9 @@
 Nickname: Eyes
+
 Release: [[Spirits By Release#Horizons of Spirit Island|Horizons]]
+
 Elements: ![[plant.png]], ![[moon.png]], ![[air.png]]
+
 ![[Eyes.jpg]]
 ## Guides
 - [[Eyes - Bottom Track]] (Recommended)

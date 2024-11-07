@@ -1,6 +1,9 @@
 Nickname: Mud
+
 Release: [[Spirits By Release#Horizons of Spirit Island|Horizons]]
+
 Elements: ![[moon.png]]![[water.png]], ![[earth.png]], ![[plant.png]]
+
 ![[Mud.jpg]]
 ## Guides
 
@@ -8,12 +11,12 @@ Elements: ![[moon.png]]![[water.png]], ![[earth.png]], ![[plant.png]]
 
 ## Unique Cards
 
-| Rating |                        Elements                         | Name                            | Notes                      |
-| :----: | :-----------------------------------------------------: | ------------------------------- | -------------------------- |
-|   B    |       ![[water.png]]![[earth.png]]![[plant.png]]        | Exaltation of Tangled Growth    | Slightly overcosted drafts |
-|   B    |  ![[fire.png]]![[air.png]]![[water.png]]![[earth.png]]  | Foul Vapors And Fetid Muck      |                            |
-|   B    | ![[moon.png]]![[water.png]]![[earth.png]]![[plant.png]] | Intractable Thickets And Thorns |                            |
-|   B    |       ![[moon.png]]![[water.png]]![[animal.png]]        | Open Shifting Waterways         |                            |
+| Rating |                        Elements                         | Name                            | Notes                  |
+| :----: | :-----------------------------------------------------: | ------------------------------- | ---------------------- |
+|   B    |       ![[water.png]]![[earth.png]]![[plant.png]]        | Exaltation of Tangled Growth    | Somewhat costly drafts |
+|   B    |  ![[fire.png]]![[air.png]]![[water.png]]![[earth.png]]  | Foul Vapors And Fetid Muck      |                        |
+|   B    | ![[moon.png]]![[water.png]]![[earth.png]]![[plant.png]] | Intractable Thickets And Thorns |                        |
+|   B    |       ![[moon.png]]![[water.png]]![[animal.png]]        | Open Shifting Waterways         |                        |
 
 ## Play Patterns
 
