@@ -4,10 +4,10 @@
 |                                Spirit | Energy | Drafts | Card Plays |
 | ------------------------------------: | :----: | :----: | :--------: |
 |      Bringer of Dreams and Nightmares |        |        |            |
-|              Lightning's Swift Strike |  WANT  |  WANT  |            |
+|          [[Lightning's Swift Strike]] |  WANT  |  WANT  |            |
 |                  Ocean's Hungry Grasp |        |        |            |
 |          [[River Surges in Sunlight]] | GIVE!! |        |            |
-|            Shadows Flicker Like Flame |        |        |            |
+|        [[Shadows Flicker Like Flame]] |  WANT  |  want  |    want    |
 |               Spread of Rampant Green |        |        |            |
 |                        Thunderspeaker |        |  want  |            |
 |           Vital Strength of the Earth |        |  WANT  |            |

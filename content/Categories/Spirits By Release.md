@@ -3,10 +3,10 @@
 
 ## Base Game
 - Bringer of Dreams and Nightmares
-- Lightning's Swift Strike
+- [[Lightning's Swift Strike]]
 - Ocean's Hungry Grasp
 - [[River Surges in Sunlight]]
-- Shadows Flicker Like Flame
+- [[Shadows Flicker Like Flame]]
 - Spread of Rampant Green
 - Thunderspeaker
 - Vital Strength of the Earth

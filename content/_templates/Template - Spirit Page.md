@@ -1,7 +1,10 @@
 Nickname: -------
-Release: \[[Spirits By Release#Jagged Earth|Jagged Earth]]
+
+Release: \[\[Spirits By Release#Jagged Earth|Jagged Earth]]
+
 Elements: ![[sun.png]] 
-!\[[_assets/boards/---]]
+
+!\[\[_assets/boards/---]]
 ## Guides
 
 
