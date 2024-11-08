@@ -1,8 +1,10 @@
-```
-title: "Index"
-```
+---
+title: Index
+---
 ## Start Here
-Find spirit guides by various [[Categories]]
+- [[Spirits By Release]]
+- [[Spirits By Element]]
+- [[Spirits By Support]]
 
 ## Site Principles & Explanation
 Inspired by the [LatentOctopus Spirit Island Hub](https://latentoctopus.github.io/)
@@ -12,7 +14,7 @@ The purpose of this is to compile spirit openings and tactics for easy reference
 # Feedback, Suggestions, Links
 GitHub: https://github.com/TheTaurunti/obsidian-spiritisland
 
-Please feel free to send an email to thetaurunti@gmail.com if you spot any errors or have other feedback. I would especially like to hear about any spirit guides not linked that you feel describe the spirit well or were greatly helpful to you in understanding how that spirit plays
+Please feel free to send an email to thetaurunti@gmail.com if you spot any errors or have other feedback. I would especially like to hear about any spirit guides not linked that you feel describe the spirit well or were greatly helpful to you in understanding how that spirit plays.
 
 ## Credits
 Site:

@@ -1,7 +1,5 @@
 
-[[Categories|^ Return to Categories]]
-
-
+[[index|^ Return to Index]]
 
 |                                Spirit | Energy | Drafts | Card Plays |
 | ------------------------------------: | :----: | :----: | :--------: |
@@ -48,15 +46,3 @@
 |        Wandering Voice Keens Delirium |        |        |            |
 |               Wounded Waters Bleeding |        |        |            |
 
-
-## Other
-### Gives
-- [[Devouring Teeth Lurk Underfoot|Teeth - Damage Boost]]
-- [[Eyes Watch From The Trees|Eyes - Defend]]
-- [[Sun-Bright Whirlwind|Sun-Bright - Slow To Fast (Gather/Push only)]]
-### Wants
-- [[Rising Heat of Stone and Sand|Heat - Proliferation]] - extra sacred sites have a large impact w/ special rule
-- [[Eyes Watch From The Trees|Eyes - Dahan]]
-
-
-## Excellent Synergies

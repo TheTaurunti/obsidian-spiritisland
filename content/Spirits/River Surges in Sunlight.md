@@ -48,6 +48,7 @@ River loves boards where everything is within range 1 of wetlands, so that it ca
 ## Spirit Friends
 
 Lightning
+Ocean
 
 
 

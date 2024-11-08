@@ -1,5 +1,5 @@
 
-[[Categories|^ Return to Categories]]
+[[index|^ Return to Index]]
 
 ## Base Game
 - Bringer of Dreams and Nightmares
